@@ -3079,3 +3079,552 @@ Sneezing,Vertigo,1,3.356920825
 Pruritus,Vertigo,2,2.931884217
 Purpura,Vertigo,1,1.063218606
 Hirsutism,Vertigo,1,2.483722237
+Asthenia,Depressive Disorder,11,22.69541176
+Fever,Depressive Disorder,13,8.04618922
+Hypothermia,Depressive Disorder,5,9.727181077
+Body Weight,Depressive Disorder,226,77.51525345
+Birth Weight,Depressive Disorder,14,19.6998332
+Weight Gain,Depressive Disorder,70,104.0682818
+Weight Loss,Depressive Disorder,56,56.00300784
+Cachexia,Depressive Disorder,4,7.978896063
+Overweight,Depressive Disorder,11,9.062593095
+Obesity,Depressive Disorder,90,74.92982865
+"Obesity, Morbid",Depressive Disorder,5,8.764699762
+Thinness,Depressive Disorder,3,8.01179883
+"Cardiac Output, Low",Depressive Disorder,2,4.285591299
+Edema,Depressive Disorder,3,1.787634282
+Fatigue,Depressive Disorder,132,150.2177365
+Mental Fatigue,Depressive Disorder,6,21.51107686
+Flushing,Depressive Disorder,4,10.45604854
+Hot Flashes,Depressive Disorder,8,27.24568792
+Mobility Limitation,Depressive Disorder,6,16.58314262
+Neurologic Manifestations,Depressive Disorder,1,0.069941413
+Dyskinesias,Depressive Disorder,3,2.243856236
+Ataxia,Depressive Disorder,1,1.219659713
+Cerebellar Ataxia,Depressive Disorder,3,5.126356869
+Athetosis,Depressive Disorder,2,5.164324619
+Catalepsy,Depressive Disorder,2,7.349049155
+Chorea,Depressive Disorder,4,7.971933485
+Dystonia,Depressive Disorder,20,30.72218067
+Torticollis,Depressive Disorder,2,4.309981845
+Hyperkinesis,Depressive Disorder,3,7.023000758
+Hypokinesia,Depressive Disorder,3,8.637879813
+Myoclonus,Depressive Disorder,18,31.95127565
+Psychomotor Agitation,Depressive Disorder,99,222.0134578
+"Akathisia, Drug-Induced",Depressive Disorder,65,202.2092442
+Tremor,Depressive Disorder,30,52.1805836
+"Gait Disorders, Neurologic",Depressive Disorder,3,5.23429656
+Neurobehavioral Manifestations,Depressive Disorder,7,2.59530602
+Apraxias,Depressive Disorder,1,2.383774069
+Catatonia,Depressive Disorder,34,91.86482149
+Communication Disorders,Depressive Disorder,2,1.977045028
+Language Disorders,Depressive Disorder,3,3.233209988
+Anomia,Depressive Disorder,4,13.68039891
+Dyslexia,Depressive Disorder,2,5.354944978
+Language Development Disorders,Depressive Disorder,3,7.459701566
+Speech Disorders,Depressive Disorder,8,9.223332488
+Aphasia,Depressive Disorder,26,47.07720718
+"Aphasia, Broca",Depressive Disorder,4,12.4436458
+"Aphasia, Primary Progressive",Depressive Disorder,2,8.994411621
+"Aphasia, Wernicke",Depressive Disorder,2,6.990646296
+Articulation Disorders,Depressive Disorder,2,3.774897915
+Dysarthria,Depressive Disorder,4,8.106340471
+Mutism,Depressive Disorder,4,11.68961358
+Stuttering,Depressive Disorder,3,9.970418674
+Learning Disorders,Depressive Disorder,44,76.3537446
+Confusion,Depressive Disorder,39,58.84898024
+Delirium,Depressive Disorder,71,147.9608156
+Consciousness Disorders,Depressive Disorder,1,0.877129276
+Unconsciousness,Depressive Disorder,3,2.783918488
+Coma,Depressive Disorder,8,10.4966785
+Persistent Vegetative State,Depressive Disorder,3,9.285239952
+Stupor,Depressive Disorder,1,4.850845851
+Syncope,Depressive Disorder,12,17.89069713
+"Syncope, Vasovagal",Depressive Disorder,2,6.365134876
+Lethargy,Depressive Disorder,2,6.990646296
+Memory Disorders,Depressive Disorder,151,221.6676388
+Amnesia,Depressive Disorder,34,73.83052883
+"Amnesia, Anterograde",Depressive Disorder,1,4.070687293
+"Amnesia, Retrograde",Depressive Disorder,12,40.78312226
+Korsakoff Syndrome,Depressive Disorder,1,4.029865299
+Mental Retardation,Depressive Disorder,108,97.78824188
+Perceptual Disorders,Depressive Disorder,17,23.56297523
+Agnosia,Depressive Disorder,3,7.608637257
+Auditory Perceptual Disorders,Depressive Disorder,3,9.430040175
+Hallucinations,Depressive Disorder,127,218.8575994
+Illusions,Depressive Disorder,5,15.4492902
+Phantom Limb,Depressive Disorder,1,3.2293596
+Psychomotor Disorders,Depressive Disorder,115,153.138714
+Fasciculation,Depressive Disorder,1,3.074353854
+Muscle Cramp,Depressive Disorder,1,2.24256018
+Muscle Hypertonia,Depressive Disorder,1,1.480420128
+Muscle Rigidity,Depressive Disorder,1,2.401932804
+Muscle Spasticity,Depressive Disorder,1,1.727280206
+Muscle Hypotonia,Depressive Disorder,1,1.656511135
+Muscle Weakness,Depressive Disorder,1,0.992991082
+Spasm,Depressive Disorder,3,4.101832415
+Hemifacial Spasm,Depressive Disorder,1,3.241407938
+Tetany,Depressive Disorder,1,2.381206673
+Pain,Depressive Disorder,317,104.4155866
+Back Pain,Depressive Disorder,44,50.46485484
+Low Back Pain,Depressive Disorder,18,28.62757841
+Facial Pain,Depressive Disorder,8,15.77862874
+Headache,Depressive Disorder,97,85.80273271
+Neck Pain,Depressive Disorder,5,9.793960033
+Neuralgia,Depressive Disorder,7,10.76819874
+Sciatica,Depressive Disorder,2,4.338818596
+"Pain, Intractable",Depressive Disorder,38,75.73336811
+Paralysis,Depressive Disorder,3,1.453414132
+Facial Paralysis,Depressive Disorder,1,1.357096912
+Hemiplegia,Depressive Disorder,1,1.294632363
+Ophthalmoplegia,Depressive Disorder,1,1.329847269
+"Supranuclear Palsy, Progressive",Depressive Disorder,4,12.13658973
+Paraplegia,Depressive Disorder,8,10.21983427
+Quadriplegia,Depressive Disorder,9,12.32225703
+Vocal Cord Paralysis,Depressive Disorder,3,5.96333863
+Psychophysiologic Disorders,Depressive Disorder,274,406.2065438
+Seizures,Depressive Disorder,116,98.03936336
+Sensation Disorders,Depressive Disorder,10,3.433219043
+Dizziness,Depressive Disorder,61,81.89075677
+Hearing Disorders,Depressive Disorder,4,2.9400663
+Hearing Loss,Depressive Disorder,3,2.410651634
+Deafness,Depressive Disorder,4,4.914108652
+"Hearing Loss, Bilateral",Depressive Disorder,2,4.423577042
+"Hearing Loss, Sensorineural",Depressive Disorder,6,7.289135163
+Presbycusis,Depressive Disorder,4,14.77357225
+"Hearing Loss, Unilateral",Depressive Disorder,1,3.585179477
+Hyperacusis,Depressive Disorder,1,4.056893971
+Tinnitus,Depressive Disorder,24,47.37680694
+Olfaction Disorders,Depressive Disorder,7,16.01761152
+Somatosensory Disorders,Depressive Disorder,5,5.22765535
+Hyperalgesia,Depressive Disorder,6,14.36466047
+Hyperesthesia,Depressive Disorder,2,5.389728464
+Hypesthesia,Depressive Disorder,6,10.33176626
+Paresthesia,Depressive Disorder,13,17.6542359
+Taste Disorders,Depressive Disorder,5,11.88045786
+Ageusia,Depressive Disorder,1,3.585179477
+Dysgeusia,Depressive Disorder,2,6.944312178
+Vision Disorders,Depressive Disorder,20,13.26978864
+Blindness,Depressive Disorder,5,5.490691775
+Color Vision Defects,Depressive Disorder,4,10.26643959
+Diplopia,Depressive Disorder,1,1.644165299
+"Vision, Low",Depressive Disorder,4,9.02417412
+Sleep Disorders,Depressive Disorder,265,395.6447111
+Sleep Deprivation,Depressive Disorder,284,731.5590901
+"Urinary Bladder, Neurogenic",Depressive Disorder,1,2.078257128
+Vertigo,Depressive Disorder,9,14.36626749
+Voice Disorders,Depressive Disorder,4,6.660979259
+Aphonia,Depressive Disorder,1,3.628854541
+Hoarseness,Depressive Disorder,1,2.216126923
+Abdominal Pain,Depressive Disorder,12,10.18180414
+Arthralgia,Depressive Disorder,5,7.386500002
+Shoulder Pain,Depressive Disorder,1,2.420427386
+Chest Pain,Depressive Disorder,16,17.59297329
+Angina Pectoris,Depressive Disorder,20,29.05366745
+Acute Coronary Syndrome,Depressive Disorder,17,44.16532725
+"Angina, Unstable",Depressive Disorder,16,35.88096288
+"Angina Pectoris, Variant",Depressive Disorder,1,3.265949047
+Toothache,Depressive Disorder,2,5.461164629
+Glossalgia,Depressive Disorder,2,8.033240144
+"Pain, Postoperative",Depressive Disorder,12,20.13426387
+Pelvic Pain,Depressive Disorder,9,18.36970313
+Dysmenorrhea,Depressive Disorder,3,8.280314261
+Aerophagy,Depressive Disorder,1,4.070687293
+Anorexia,Depressive Disorder,19,34.67995167
+Constipation,Depressive Disorder,24,38.25397184
+Diarrhea,Depressive Disorder,13,12.0014457
+Dyspepsia,Depressive Disorder,13,27.06667859
+Encopresis,Depressive Disorder,1,3.80405863
+Halitosis,Depressive Disorder,1,3.241407938
+Heartburn,Depressive Disorder,1,3.176869417
+Hyperphagia,Depressive Disorder,47,112.7679659
+Bulimia,Depressive Disorder,103,284.6772816
+Nausea,Depressive Disorder,81,92.23899901
+Vomiting,Depressive Disorder,17,14.33971531
+Hyperemesis Gravidarum,Depressive Disorder,1,2.875082738
+Anoxia,Depressive Disorder,1,1.001988572
+Cough,Depressive Disorder,2,2.629458302
+Dyspnea,Depressive Disorder,12,12.06266018
+Hypercapnia,Depressive Disorder,2,4.221967644
+Hyperventilation,Depressive Disorder,14,29.47182205
+Hypocapnia,Depressive Disorder,1,3.37061967
+Respiratory Sounds,Depressive Disorder,2,3.278538657
+Sneezing,Depressive Disorder,1,3.356920825
+Ecchymosis,Depressive Disorder,2,4.599962466
+Pruritus,Depressive Disorder,8,11.72753687
+Purpura,Depressive Disorder,1,1.063218606
+"Purpura, Thrombocytopenic, Idiopathic",Depressive Disorder,1,1.933894455
+Nocturia,Depressive Disorder,1,4.172966142
+Polyuria,Depressive Disorder,3,7.082704221
+Prostatism,Depressive Disorder,1,4.658473958
+Albuminuria,Depressive Disorder,1,2.065086665
+Urinary Incontinence,Depressive Disorder,14,22.64541078
+"Urinary Incontinence, Stress",Depressive Disorder,1,2.802175968
+"Urinary Incontinence, Urge",Depressive Disorder,1,4.127845707
+Hirsutism,Depressive Disorder,1,2.483722237
+Asthenia,Stroke,1,2.063219251
+Fever,Stroke,53,32.80369451
+Fever of Unknown Origin,Stroke,1,1.473154917
+Hypothermia,Stroke,12,23.34523458
+Body Weight,Stroke,65,22.29421006
+Birth Weight,Stroke,5,7.035654715
+Weight Gain,Stroke,7,10.40682818
+Weight Loss,Stroke,5,5.000268557
+Cachexia,Stroke,1,1.994724016
+Overweight,Stroke,5,4.119360498
+Obesity,Stroke,83,69.10195309
+"Obesity, Morbid",Stroke,3,5.258819857
+Thinness,Stroke,1,2.67059961
+"Cardiac Output, Low",Stroke,6,12.8567739
+Cyanosis,Stroke,2,3.486819175
+Edema,Stroke,22,13.10931807
+Eye Hemorrhage,Stroke,1,2.752642033
+Fatigue,Stroke,57,64.86674986
+Mental Fatigue,Stroke,6,21.51107686
+Fetal Distress,Stroke,1,2.588451638
+Heart Murmurs,Stroke,1,2.363417131
+Hot Flashes,Stroke,2,6.811421979
+Intermittent Claudication,Stroke,7,15.52812241
+Mobility Limitation,Stroke,30,82.9157131
+Motion Sickness,Stroke,1,3.495323148
+Dyskinesias,Stroke,20,14.95904157
+Ataxia,Stroke,27,32.93081224
+Cerebellar Ataxia,Stroke,5,8.543928115
+Gait Ataxia,Stroke,5,14.01087984
+Athetosis,Stroke,2,5.164324619
+Catalepsy,Stroke,2,7.349049155
+Chorea,Stroke,9,17.93685034
+Dystonia,Stroke,12,18.4333084
+Torticollis,Stroke,1,2.154990923
+Hyperkinesis,Stroke,2,4.682000505
+Hypokinesia,Stroke,2,5.758586542
+Myoclonus,Stroke,4,7.100283478
+Psychomotor Agitation,Stroke,6,13.45536108
+Synkinesis,Stroke,1,4.658473958
+Tics,Stroke,2,7.444761198
+Tremor,Stroke,13,22.61158623
+"Gait Disorders, Neurologic",Stroke,144,251.2462349
+Apraxias,Stroke,41,97.73473681
+Alien Hand Syndrome,Stroke,1,5.639303211
+Catatonia,Stroke,1,2.701906514
+Communication Disorders,Stroke,12,11.86227017
+Language Disorders,Stroke,42,45.26493983
+Agraphia,Stroke,4,13.40056455
+Anomia,Stroke,14,47.88139618
+Dyslexia,Stroke,5,13.38736245
+"Dyslexia, Acquired",Stroke,7,24.63327772
+"Alexia, Pure",Stroke,1,4.658473958
+Language Development Disorders,Stroke,3,7.459701566
+Speech Disorders,Stroke,40,46.11666244
+Aphasia,Stroke,255,461.7187627
+"Aphasia, Broca",Stroke,30,93.32734348
+"Aphasia, Conduction",Stroke,1,5.089256874
+"Aphasia, Primary Progressive",Stroke,1,4.49720581
+"Aphasia, Wernicke",Stroke,17,59.42049352
+Articulation Disorders,Stroke,8,15.09959166
+Dysarthria,Stroke,27,54.71779818
+Mutism,Stroke,3,8.767210184
+Stuttering,Stroke,4,13.29389157
+Learning Disorders,Stroke,2,3.470624755
+Confusion,Stroke,18,27.1610678
+Delirium,Stroke,23,47.93096844
+Consciousness Disorders,Stroke,20,17.54258552
+Unconsciousness,Stroke,8,7.423782634
+Coma,Stroke,21,27.55378107
+Persistent Vegetative State,Stroke,3,9.285239952
+Syncope,Stroke,4,5.96356571
+"Syncope, Vasovagal",Stroke,1,3.182567438
+Memory Disorders,Stroke,88,129.1837895
+Amnesia,Stroke,9,19.54337528
+"Amnesia, Anterograde",Stroke,1,4.070687293
+"Amnesia, Retrograde",Stroke,1,3.398593522
+"Amnesia, Transient Global",Stroke,3,12.29657451
+Korsakoff Syndrome,Stroke,1,4.029865299
+Mental Retardation,Stroke,3,2.716340052
+Perceptual Disorders,Stroke,200,277.2114732
+Agnosia,Stroke,40,101.4484968
+Prosopagnosia,Stroke,3,12.61265606
+Auditory Perceptual Disorders,Stroke,7,22.00342708
+Hallucinations,Stroke,9,15.50959366
+Illusions,Stroke,7,21.62900628
+Phantom Limb,Stroke,3,9.688078799
+Psychomotor Disorders,Stroke,31,41.28087074
+"Apraxia, Ideomotor",Stroke,8,32.90597526
+Muscle Hypertonia,Stroke,16,23.68672204
+Muscle Rigidity,Stroke,2,4.803865607
+Muscle Spasticity,Stroke,221,381.7289254
+Muscle Hypotonia,Stroke,3,4.969533404
+Muscle Weakness,Stroke,643,638.4932655
+Muscular Atrophy,Stroke,13,18.990683
+Spasm,Stroke,7,9.570942301
+Hemifacial Spasm,Stroke,1,3.241407938
+Trismus,Stroke,3,7.793881279
+Pain,Stroke,114,37.55008478
+Back Pain,Stroke,3,3.440785558
+Facial Pain,Stroke,2,3.944657185
+Headache,Stroke,70,61.91949783
+Neck Pain,Stroke,17,33.29946411
+Neuralgia,Stroke,10,15.38314106
+"Pain, Intractable",Stroke,11,21.92281708
+Paralysis,Stroke,44,21.31674061
+Facial Paralysis,Stroke,26,35.2845197
+Hemiplegia,Stroke,364,471.2461801
+Ophthalmoplegia,Stroke,7,9.308930884
+"Supranuclear Palsy, Progressive",Stroke,1,3.034147433
+Paraplegia,Stroke,9,11.49731355
+Brown-Sequard Syndrome,Stroke,1,3.535169057
+Pseudobulbar Palsy,Stroke,2,8.31539734
+Quadriplegia,Stroke,10,13.69139669
+Respiratory Paralysis,Stroke,3,7.468260773
+Vocal Cord Paralysis,Stroke,2,3.975559087
+Paresis,Stroke,580,746.8867546
+Paraparesis,Stroke,2,4.471772145
+"Paraparesis, Spastic",Stroke,2,6.342407359
+Psychophysiologic Disorders,Stroke,1,1.482505634
+Pupil Disorders,Stroke,3,5.23836988
+Horner Syndrome,Stroke,6,13.25775815
+"Reflex, Abnormal",Stroke,16,22.51409509
+"Reflex, Babinski",Stroke,1,3.527071847
+Seizures,Stroke,132,111.5620342
+Sensation Disorders,Stroke,58,19.91267045
+Dizziness,Stroke,28,37.58919983
+Hearing Disorders,Stroke,3,2.205049725
+Hearing Loss,Stroke,3,2.410651634
+Deafness,Stroke,6,7.371162978
+"Hearing Loss, High-Frequency",Stroke,1,3.105606397
+"Hearing Loss, Sensorineural",Stroke,5,6.074279302
+"Hearing Loss, Central",Stroke,1,3.253603211
+"Hearing Loss, Sudden",Stroke,2,5.170604059
+Tinnitus,Stroke,3,5.922100868
+Olfaction Disorders,Stroke,1,2.288230217
+Somatosensory Disorders,Stroke,30,31.3659321
+Hyperalgesia,Stroke,11,26.33521086
+Hypesthesia,Stroke,11,18.94157149
+Paresthesia,Stroke,18,24.44432663
+Taste Disorders,Stroke,5,11.88045786
+Dysgeusia,Stroke,2,6.944312178
+Vision Disorders,Stroke,55,36.49191875
+Blindness,Stroke,10,10.98138355
+Amaurosis Fugax,Stroke,20,70.2214301
+"Blindness, Cortical",Stroke,4,11.77870412
+Diplopia,Stroke,12,19.72998359
+Hemianopsia,Stroke,47,97.85645337
+Scotoma,Stroke,3,7.143620019
+"Vision, Low",Stroke,2,4.51208706
+Sleep Disorders,Stroke,22,32.84597602
+Sleep Deprivation,Stroke,1,2.575912289
+"Urinary Bladder, Neurogenic",Stroke,8,16.62605703
+Vertigo,Stroke,20,31.92503886
+Voice Disorders,Stroke,6,9.991468888
+Abdominal Pain,Stroke,2,1.696967356
+Arthralgia,Stroke,4,5.909200001
+Shoulder Pain,Stroke,50,121.0213693
+Chest Pain,Stroke,10,10.9956083
+Angina Pectoris,Stroke,16,23.24293396
+Acute Coronary Syndrome,Stroke,24,62.35105023
+"Angina, Unstable",Stroke,12,26.91072216
+Constipation,Stroke,8,12.75132395
+Diarrhea,Stroke,2,1.846376262
+Gagging,Stroke,9,33.59009606
+Hiccup,Stroke,2,5.907451732
+Hyperphagia,Stroke,1,2.399318423
+Nausea,Stroke,7,7.971271519
+Vomiting,Stroke,11,9.27863932
+Hematemesis,Stroke,1,2.085861728
+Hyperemesis Gravidarum,Stroke,1,2.875082738
+Anoxia,Stroke,49,49.09744001
+Apnea,Stroke,5,9.382769542
+Cheyne-Stokes Respiration,Stroke,5,18.18911605
+Cough,Stroke,15,19.72093727
+Dyspnea,Stroke,11,11.0574385
+Hemoptysis,Stroke,1,1.697074364
+Hypercapnia,Stroke,3,6.332951466
+Hyperoxia,Stroke,6,17.69514426
+Hyperventilation,Stroke,4,8.420520587
+Hypoventilation,Stroke,1,2.521353305
+Respiratory Aspiration,Stroke,12,39.9608829
+Respiratory Sounds,Stroke,1,1.639269328
+Snoring,Stroke,9,24.84094278
+"Jaundice, Obstructive",Stroke,1,2.498028632
+Pruritus,Stroke,1,1.465942108
+"Purpura, Schoenlein-Henoch",Stroke,1,1.998214421
+"Purpura, Thrombocytopenic, Idiopathic",Stroke,3,5.801683365
+"Purpura, Thrombotic Thrombocytopenic",Stroke,6,13.10423165
+Nocturia,Stroke,2,8.345932284
+Proteinuria,Stroke,10,12.48977774
+Albuminuria,Stroke,27,55.75733996
+"Urinary Bladder, Overactive",Stroke,3,10.6299971
+Urinary Incontinence,Stroke,49,79.25893774
+"Urinary Incontinence, Urge",Stroke,2,8.255691414
+"Aging, Premature",Ischemia,1,3.46455149
+Fever,Ischemia,13,8.04618922
+Fever of Unknown Origin,Ischemia,1,1.473154917
+Hypothermia,Ischemia,34,66.14483132
+Body Weight,Ischemia,56,19.20731944
+Birth Weight,Ischemia,4,5.628523772
+Weight Gain,Ischemia,3,4.460069222
+Weight Loss,Ischemia,13,13.00069825
+Fetal Weight,Ischemia,1,3.576668788
+Overweight,Ischemia,1,0.8238721
+Obesity,Ischemia,26,21.64639494
+"Obesity, Morbid",Ischemia,2,3.505879905
+Thinness,Ischemia,1,2.67059961
+"Cardiac Output, High",Ischemia,1,3.836493906
+"Cardiac Output, Low",Ischemia,9,19.28516085
+Cyanosis,Ischemia,14,24.40773423
+Edema,Ischemia,153,91.1693484
+"Edema, Cardiac",Ischemia,1,3.519039675
+Hydrops Fetalis,Ischemia,1,2.341000253
+Eye Manifestations,Ischemia,1,1.507876974
+Eye Hemorrhage,Ischemia,1,2.752642033
+Fatigue,Ischemia,15,17.07019733
+Fetal Distress,Ischemia,3,7.765354915
+Heart Murmurs,Ischemia,1,2.363417131
+Hypergammaglobulinemia,Ischemia,3,5.037375491
+Intermittent Claudication,Ischemia,361,800.8074559
+Mobility Limitation,Ischemia,5,13.81928552
+Neurologic Manifestations,Ischemia,12,0.839296958
+Decerebrate State,Ischemia,13,38.28078839
+Ataxia,Ischemia,5,6.098298564
+Cerebellar Ataxia,Ischemia,1,1.708785623
+Torticollis,Ischemia,1,2.154990923
+Hyperkinesis,Ischemia,2,4.682000505
+Hypokinesia,Ischemia,1,2.879293271
+Myoclonus,Ischemia,2,3.550141739
+Psychomotor Agitation,Ischemia,1,2.24256018
+Tremor,Ischemia,1,1.739352787
+"Gait Disorders, Neurologic",Ischemia,1,1.74476552
+Apraxias,Ischemia,1,2.383774069
+Agraphia,Ischemia,1,3.350141138
+"Dyslexia, Acquired",Ischemia,2,7.03807935
+Speech Disorders,Ischemia,2,2.305833122
+Aphasia,Ischemia,2,3.621323629
+Dysarthria,Ischemia,2,4.053170236
+Confusion,Ischemia,1,1.508948211
+Consciousness Disorders,Ischemia,1,0.877129276
+Unconsciousness,Ischemia,2,1.855945658
+Coma,Ischemia,10,13.12084813
+Syncope,Ischemia,1,1.490891428
+Memory Disorders,Ischemia,4,5.871990431
+Amnesia,Ischemia,1,2.171486142
+Mental Retardation,Ischemia,3,2.716340052
+Perceptual Disorders,Ischemia,1,1.386057366
+Phantom Limb,Ischemia,1,3.2293596
+Muscle Cramp,Ischemia,3,6.727680539
+Muscle Hypertonia,Ischemia,1,1.480420128
+Muscle Rigidity,Ischemia,6,14.41159682
+Muscle Spasticity,Ischemia,7,12.09096144
+Muscle Hypotonia,Ischemia,7,11.59557794
+Muscle Weakness,Ischemia,27,26.81075921
+Muscular Atrophy,Ischemia,24,35.05972247
+Myotonia,Ischemia,1,3.054048587
+Spasm,Ischemia,45,61.52748622
+Tetany,Ischemia,4,9.524826692
+Pain,Ischemia,276,90.91073158
+Back Pain,Ischemia,4,4.587714077
+Low Back Pain,Ischemia,5,7.952105114
+Facial Pain,Ischemia,3,5.916985777
+Headache,Ischemia,11,9.730206802
+Neuralgia,Ischemia,3,4.614942318
+Sciatica,Ischemia,7,15.18586509
+"Pain, Intractable",Ischemia,9,17.93685034
+"Pain, Referred",Ischemia,1,4.00354799
+Paralysis,Ischemia,57,27.61486852
+Facial Paralysis,Ischemia,18,24.42774441
+Gastroparesis,Ischemia,2,6.59499481
+Hemiplegia,Ischemia,8,10.3570589
+Ophthalmoplegia,Ischemia,20,26.59694538
+Paraplegia,Ischemia,144,183.9570168
+Quadriplegia,Ischemia,9,12.32225703
+Respiratory Paralysis,Ischemia,1,2.489420258
+Vocal Cord Paralysis,Ischemia,3,5.96333863
+Paresis,Ischemia,22,28.33018724
+Paraparesis,Ischemia,1,2.235886073
+Pupil Disorders,Ischemia,1,1.746123293
+Horner Syndrome,Ischemia,1,2.209626358
+Tonic Pupil,Ischemia,1,3.928512804
+"Reflex, Abnormal",Ischemia,9,12.66417849
+Seizures,Ischemia,13,10.98717003
+Sensation Disorders,Ischemia,4,1.373287617
+Dizziness,Ischemia,8,10.73977138
+Hearing Disorders,Ischemia,2,1.47003315
+Hearing Loss,Ischemia,6,4.821303268
+Deafness,Ischemia,4,4.914108652
+"Hearing Loss, Bilateral",Ischemia,1,2.211788521
+"Hearing Loss, Conductive",Ischemia,1,2.267420217
+"Hearing Loss, Sensorineural",Ischemia,14,17.00798205
+"Hearing Loss, Central",Ischemia,1,3.253603211
+"Hearing Loss, Noise-Induced",Ischemia,5,15.97030909
+Presbycusis,Ischemia,1,3.693393062
+"Hearing Loss, Sudden",Ischemia,10,25.85302029
+Tinnitus,Ischemia,3,5.922100868
+Hyperalgesia,Ischemia,9,21.5469907
+Hyperesthesia,Ischemia,4,10.77945693
+Hypesthesia,Ischemia,9,15.4976494
+Paresthesia,Ischemia,31,42.09856253
+Vision Disorders,Ischemia,61,40.47285534
+Blindness,Ischemia,87,95.53803689
+Amaurosis Fugax,Ischemia,3,10.53321452
+"Blindness, Cortical",Ischemia,1,2.94467603
+Color Vision Defects,Ischemia,1,2.566609896
+Diplopia,Ischemia,5,8.220826494
+Hemianopsia,Ischemia,5,10.410261
+Scotoma,Ischemia,12,28.57448008
+"Vision, Low",Ischemia,7,15.79230471
+Sleep Disorders,Ischemia,1,1.49299891
+Sleep Deprivation,Ischemia,1,2.575912289
+"Urinary Bladder, Neurogenic",Ischemia,1,2.078257128
+Vertigo,Ischemia,6,9.577511659
+Voice Disorders,Ischemia,1,1.665244815
+Oral Hemorrhage,Ischemia,1,2.575912289
+Abdominal Pain,Ischemia,128,108.6059108
+"Abdomen, Acute",Ischemia,63,90.56880822
+Colic,Ischemia,5,10.67373658
+Renal Colic,Ischemia,1,4.881617509
+Arthralgia,Ischemia,1,1.4773
+Chest Pain,Ischemia,9,9.896047473
+Angina Pectoris,Ischemia,26,37.76976769
+Acute Coronary Syndrome,Ischemia,3,7.793881279
+"Angina, Unstable",Ischemia,6,13.45536108
+Glossalgia,Ischemia,1,4.016620072
+"Pain, Postoperative",Ischemia,11,18.45640854
+Pelvic Pain,Ischemia,1,2.041078125
+Anorexia,Ischemia,2,3.650521228
+Constipation,Ischemia,9,14.34523944
+Diarrhea,Ischemia,30,27.69564393
+"Diarrhea, Infantile",Ischemia,1,2.281245322
+Dyspepsia,Ischemia,2,4.164104399
+Bulimia,Ischemia,1,2.763857103
+Nausea,Ischemia,2,2.277506148
+Vomiting,Ischemia,10,8.435126654
+Hematemesis,Ischemia,9,18.77275555
+Anoxia,Ischemia,357,357.7099201
+Fetal Hypoxia,Ischemia,8,21.87380245
+Apnea,Ischemia,1,1.876553908
+Cheyne-Stokes Respiration,Ischemia,1,3.637823211
+Cough,Ischemia,2,2.629458302
+Dyspnea,Ischemia,2,2.010443363
+Hemoptysis,Ischemia,1,1.697074364
+Hypercapnia,Ischemia,17,35.88672497
+Hyperoxia,Ischemia,13,38.33947924
+Hyperventilation,Ischemia,5,10.52565073
+Skin Manifestations,Ischemia,3,1.837071654
+Ecchymosis,Ischemia,1,2.299981233
+Jaundice,Ischemia,6,8.728270626
+"Jaundice, Obstructive",Ischemia,2,4.996057264
+Livedo Reticularis,Ischemia,2,8.19771634
+Pallor,Ischemia,1,3.535169057
+Pruritus,Ischemia,1,1.465942108
+Tinea Pedis,Ischemia,1,3.472156089
+Purpura,Ischemia,8,8.505748847
+"Purpura, Schoenlein-Henoch",Ischemia,9,17.98392979
+"Purpura, Thrombotic Thrombocytopenic",Ischemia,4,8.736154432
+Waterhouse-Friderichsen Syndrome,Ischemia,1,3.683914318
+Oliguria,Ischemia,15,39.21018203
+Polyuria,Ischemia,3,7.082704221
+Prostatism,Ischemia,2,9.316947916
+Proteinuria,Ischemia,20,24.97955547
+Albuminuria,Ischemia,8,16.52069332
+Hemoglobinuria,Ischemia,1,2.883521607
+"Urinary Bladder, Overactive",Ischemia,2,7.086664735
+Urinary Incontinence,Ischemia,11,17.79282276
